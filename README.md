@@ -5,4 +5,4 @@ Current samples are based on tutorials from FastLED library linked below.
 
 https://github.com/FastLED/FastLED
 
-(images/Photo Mar 09, 12 12 17 AM.jpg "First build running rainbow")
+![alt text](images/Photo Mar 09, 12 12 17 AM.jpg "First build running rainbow")
