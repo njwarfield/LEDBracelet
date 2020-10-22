@@ -7,4 +7,4 @@ Current samples are modified versions of tutorials from FastLED library linked b
 
 https://github.com/FastLED/FastLED
 
-[First build running rainbow](images/Photo Mar 09, 12 12 17 AM.jpg)
+![First build running rainbow](https://github.com/njwarfield/LEDBracelet/blob/master/images/Photo%20Mar%2009%2C%2012%2012%2017%20AM.jpg)
