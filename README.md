@@ -7,4 +7,4 @@ Current samples are modified versions of tutorials from FastLED library linked b
 
 https://github.com/FastLED/FastLED
 
-![alt text](images/Photo Mar 09, 12 12 17 AM.jpg "First build running rainbow")
+[First build running rainbow](images/Photo Mar 09, 12 12 17 AM.jpg)
